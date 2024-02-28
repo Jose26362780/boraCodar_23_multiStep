@@ -7,6 +7,12 @@
 ![preview](./.github/cover.png)
 ![preview](./.github/cover2.png)
 
+
+#  💻🔧 Deploy 
+
+![vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
 👉🏼[Link do projeto](https://bora-codar-23-multi-step.vercel.app/)
 
 
