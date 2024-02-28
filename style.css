@@ -40,6 +40,11 @@ form {
   overflow: hidden;
 }
 
+svg {
+  position: relative;
+  height: unset;
+}
+
 .step-progress {
   display: flex;
   aling-items: center;
